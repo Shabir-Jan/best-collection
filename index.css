@@ -1,0 +1,319 @@
+
+.bac{
+    border: 1px solid black;
+    background-color: gray;
+}
+.ref{
+    display: inline;
+    color: rgb(200, 7, 7);
+    font-size: 20px;
+    margin-left: 101px;
+}
+.inl{
+    display: inline;
+    font-size: 20px;
+    color: rgb(181, 174, 174);
+    
+}
+.valu{
+    height: 31px;
+    margin-left: 200px;
+    border: 1px solid rgb(195, 6, 6);
+    cursor: pointer;
+}
+input{
+    height: 27px;
+    width: 410px;
+    border: 1px solid rgb(202, 12, 12);
+}
+.but{
+    height: 31px;
+    width: 80px;
+    border: 1px solid rgb(201, 8, 8);
+    background-color: rgb(194, 7, 7);
+    cursor: pointer;
+}
+.bac{
+    background-color: rgb(100, 100, 101);
+}
+ul li{
+   display: inline;
+   color: white; 
+}
+.lif{
+    margin-left: 60px;
+    margin: 25px;
+    padding-left: 30px;
+}
+.lop{
+    margin-left: 800px;
+}
+.kio{
+    background-image: url(./bac.webp);
+    border: 1px solid rgb(7, 7, 7);
+    height: 70vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.nb{
+    width: 120px;
+    height: 50px;
+    background-color: rgb(206, 7, 7);
+    border-radius: 6px;
+    cursor: pointer;
+    margin: 10px;
+   
+}
+.nb:hover{
+    transform: scale(1.1);
+    background-color: blue;
+}
+h1{
+    font-size: 60px;
+    color: white;
+}
+.cxz{
+    margin-top: 130px;
+    margin-left: 200px;
+}
+.man{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+}
+.wid{
+    width: 100px;
+    cursor: pointer;
+}
+.wwi{
+    width: 110px;
+    cursor: pointer;
+}
+.can{
+    border: 1px solid rgb(197, 7, 7);
+    width: 300px;
+    text-align: center;
+    display: flex;
+    margin: 10px;
+    border-radius: 3px;
+}
+.chir{
+    border: 1px solid black;
+    width: 600px;
+    display: flex;
+    background-color: rgb(252, 215, 245);
+    margin: 10px;
+}
+.che{
+    border: 1px solid black;
+    width: 600px;
+    display: flex;
+    background-color: rgb(172, 166, 171);
+    margin: 10px;
+}
+.nm{
+    padding-top: 20px;
+    margin-left: 30px;
+}
+.lk{
+    color: rgb(216, 11, 11);
+}
+.gf{
+    width: 200px;
+    margin-left: 140px;
+}
+.po{
+    width: 100px;
+    height: 40px;
+    background-color: rgb(211, 4, 4);
+    border-radius: 5px;
+    cursor: pointer;
+}
+.fds{
+    display: flex;
+    justify-content: center;
+}
+.bluc{
+    color: black;
+    margin-left: 150px;
+}
+.cabr{
+    display: flex;
+    justify-content: center;
+}
+.parsnt{
+    border: 1px solid green;
+    background-color: green;
+    color: white;
+    width: 30px;
+    height: 20px;
+    border-radius: 6px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.pars{
+    border: 1px solid rgb(222, 6, 6);
+    background-color: rgb(219, 7, 7);
+    color: white;
+    width: 30px;
+    height: 20px;
+    border-radius: 6px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.chairs{
+    border: 1px solid black;
+    width: 280px;
+    box-shadow: 0px 0px 3px 3px rgb(218, 218, 240);
+    margin: 20px;
+    border-radius: 7px;
+   
+}
+.cha{
+    width: 270px;
+    cursor: pointer;
+}
+.chaa{
+    width: 270px;
+    height: 283px;
+    cursor: pointer;
+}
+.rd{
+    color: rgb(210, 7, 7);
+}
+.pa{
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+
+    color: white;
+    width: 30px;
+    height: 20px;
+    border-radius: 6px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.butr{
+    width: 280px;
+    height: 40px;
+    background-color: rgb(202, 9, 9);
+    cursor: pointer;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+.gtr{
+    background-image: url(./gty.jpg);
+    border: 1px solid black;
+    background-size: cover;
+    height: 50vh;
+    background-repeat: no-repeat;
+}
+.wit{
+    border: 1px solid black;
+    height: 50vh;
+    width: 70vh;
+    background-color: white;
+    border-top-right-radius: 200px;
+    border-bottom-right-radius: 200px;
+    border-right: none;
+    border-top: none;
+    border-left: none;
+    border-bottom: none;
+}
+.ytu{
+    margin-left: 80px;
+    padding-top: 70px;
+}
+.redt{
+    color: red;
+}
+.zsd{
+    width: 120px;
+    height: 40px;
+    background-color: rgb(210, 10, 10);
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.ft{
+    text-align: center;
+    width: 200px;
+    cursor: pointer;
+}
+.qw{
+    border: 1px solid rgb(219, 209, 6);
+    background-color: rgb(219, 209, 6);
+    color: white;
+    width: 30px;
+    height: 20px;
+    border-radius: 6px;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.mj{
+    width: 250px;
+    height: 30px;
+    background-color: red;
+    cursor: pointer;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px; 
+}
+.cdf{
+    display: flex;
+    justify-content: center;
+}
+.azx{
+    border: 1px solid black;
+    width: 250px;
+    box-shadow: 0px 0px 3px 3px rgb(218, 218, 240);
+    margin: 20px;
+    border-radius: 7px;
+    text-align: center;
+}
+.we{
+    border: 1px solid rgb(67, 234, 7);
+    background-color: rgb(67, 234, 7);
+    color: white;
+    width: 30px;
+    height: 20px;
+    border-radius: 6px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.dvfg{
+    display: flex;
+}
+.foot{
+    
+    margin-left: 100px;
+    color: rgb(15, 15, 15);
+    padding-top: 10px;
+}
+.footer{
+    margin-left: 100px;
+}
+.mar{
+    padding-left: 90px;
+}
+.put{
+    margin-left: 100px;
+    width: 200px;
+    height: 40px;
+}
+.VF{
+    height: 45px;
+    background-color: red;
+    color: white;
+}
+.gre{
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+.gre:hover{
+    background-color: gray;
+}
+
+
+
